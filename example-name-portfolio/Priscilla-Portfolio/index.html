@@ -257,12 +257,63 @@ target="_blank">
 
 
  </div>
-
-
-
   </section>
 
 
+<!------------------ BOOKING FORM ------------>
+<section 
+    class="booking-form"
+     id="booking">
+     <h2>BOOKING</h2>
+     <h3>Fill in the form to booking a spot</h3>
+
+    <form >
+            <!----------------------------- NAME FIELD---------------------------------------------->
+
+    
+
+       <div class="name">
+        <label for="fullname">Full Name*:</label>
+        <br>
+        <input type="text" id="fullname" name="fullname" required minlength="2" />
+       </div>
+
+     <!--------------------------------------- EMAIL FIELD----------------------------------------------->
+      <div class="email">
+        <label for="email">Email*:</label>
+        <br>
+        <input type="email" id="email" name="email" required  autocomplete="email"/>
+      </div>
+
+ <!--------------------------------Booking Date----------------------------------------------------->
+    
+      <div class="date">
+        <label for="date">Booking Date:</label>
+        <br>
+        <input type="date" id="date" name="date" />
+       </div>
+    
+
+ <div>
+ <label for="comment">Comment</label>
+ <br>
+ <textarea name="comment" id="comment" rows="8" cols="40"></textarea>
+ </div>
+
+
+       <!------------SUBMIT BUTTON------------------------>
+
+     <div class="button">
+       <button class="submit">Submit</button>
+      </div>
+
+
+
+    </form>
+
+</section>
+
+</main>
 
 
 
