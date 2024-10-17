@@ -71,3 +71,28 @@ p {
   font-size: 16px;
   padding-top: 9px;
 }
+
+/*---------------- TITLE SECTION -----------*/
+
+.title-box {
+  display: flex;
+  row-gap: 100px;
+  align-items: flex-end;
+  padding: 10px;
+}
+/*---------------- CONNECT SECTION -----------*/
+
+.connect-icons {
+  padding-top: 40px;
+}
+
+.connect-icons a {
+  text-decoration: none;
+}
+
+.connect-icons img {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  text-decoration: none;
+}
