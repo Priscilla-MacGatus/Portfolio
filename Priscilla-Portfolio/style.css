@@ -300,3 +300,8 @@ footer h2 {
   margin-bottom: 50px;
   column-gap: 20px;
 }
+
+/*---------------- MEDIUM SCREEN--------------*/
+
+@media only screen and (min-width: 700px) {
+}
