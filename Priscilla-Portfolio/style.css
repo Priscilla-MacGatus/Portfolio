@@ -40,3 +40,34 @@ main {
 .nav-list li:active {
   text-shadow: 5px 5px 5px green;
 }
+
+/*---------------- SECTION 1-----------*/
+
+.section-1 {
+  background-color: rgba(111, 128, 128, 0.3);
+}
+
+p {
+  font-family: "Questrial";
+  line-height: 30px;
+}
+
+.profile-pic {
+  width: 190px;
+}
+
+.profile-pic-and-text-icon {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.heading-and-icon h1 {
+  font-size: 23px;
+  line-height: 20px;
+}
+
+.heading-and-icon h2 {
+  font-size: 16px;
+  padding-top: 9px;
+}
