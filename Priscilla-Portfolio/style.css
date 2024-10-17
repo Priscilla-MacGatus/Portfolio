@@ -466,4 +466,23 @@ footer h2 {
     column-gap: 25px;
     padding: 35px;
   }
+
+  /*---------------- BOOKING FORM-----------*/
+
+  input,
+  textarea {
+    width: 70%;
+    height: 50px;
+    margin: 50px;
+    margin-top: 0px;
+  }
+  label {
+    margin-left: 50px;
+    padding-bottom: 30px;
+  }
+
+  .submit {
+    margin-bottom: 50px;
+    margin-left: 50px;
+  }
 }
