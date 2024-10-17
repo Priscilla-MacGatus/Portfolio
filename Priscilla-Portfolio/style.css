@@ -382,4 +382,35 @@ footer h2 {
 /*---------------- LARGE SCREENS-----------*/
 
 @media only screen and (min-width: 900px) {
+  .nav-list {
+    column-gap: 50px;
+    font-size: 25px;
+  }
+
+  /*---------------- SECTION 1 -----------*/
+
+  .profile-pic-and-text-icon {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: end;
+  }
+
+  .title-box {
+    display: flex;
+    row-gap: 100px;
+    padding: 10px;
+    padding-right: 100px;
+    align-items: center;
+  }
+
+  .title-box h1 {
+    font-size: 55px;
+    width: 350px;
+    line-height: 55px;
+    margin-bottom: 30px;
+  }
+
+  .profile-pic {
+    width: 450px;
+  }
 }
