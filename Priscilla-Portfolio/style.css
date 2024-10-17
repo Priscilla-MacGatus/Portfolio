@@ -352,4 +352,38 @@ footer h2 {
   .tech-skills {
     font-size: 25px;
   }
+
+
+  /*---------------- SECTION 3 -----------*/
+  .section-3 h2 {
+    font-size: 30px;
+  }
+
+  /*---------------- BOOKING FORM-----------*/
+  input {
+    width: 70%;
+    height: 30px;
+  }
+
+  .booking-form h3 {
+    text-align: center;
+    margin-bottom: 50px;
+  }
+
+  form {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  footer {
+    height: 70vh;
+  }
+}
+
+
+
+
+
+
+
 }
