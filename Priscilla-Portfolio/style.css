@@ -304,4 +304,29 @@ footer h2 {
 /*---------------- MEDIUM SCREEN--------------*/
 
 @media only screen and (min-width: 700px) {
+  /*---------------- SECTION 1 -----------*/
+
+  .title-box {
+    padding-right: 10px;
+    margin-bottom: 30px;
+  }
+
+  .title-box h1 {
+    font-size: 40px;
+    width: 350px;
+    line-height: 40px;
+  }
+
+  .title-box h2 {
+    font-size: 25px;
+  }
+
+  .profile-pic {
+    width: 350px;
+  }
+
+  .connect-icons img {
+    width: 50px;
+    height: 50px;
+  }
 }
