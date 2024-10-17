@@ -233,3 +233,38 @@ p {
 .project-description {
   margin-top: 10px;
 }
+
+/*---------------- BOOKING FORM-----------*/
+
+.booking-form {
+  padding: 20px;
+  background-color: rgba(10, 10, 10, 0.3);
+}
+
+.booking-form h2 {
+  text-align: center;
+}
+
+.booking-form h3 {
+  font-size: 15px;
+  font-family: "Questrial";
+  margin: 20px;
+  margin-bottom: 40px;
+}
+
+label {
+  font-family: "questrial";
+}
+
+input,
+textarea {
+  margin-bottom: 30px;
+  height: 30px;
+  width: 260px;
+}
+
+.submit {
+  width: 90px;
+  height: 30px;
+  margin-bottom: 50px;
+}
