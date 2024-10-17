@@ -268,3 +268,35 @@ textarea {
   height: 30px;
   margin-bottom: 50px;
 }
+
+/*---------------- FOOTER-----------*/
+
+footer {
+  height: 30vh;
+  background-color: rgba(10, 10, 10, 0.5);
+}
+
+footer h2 {
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.follow-us {
+  text-align: center;
+  margin-bottom: 30px;
+  padding-top: 30px;
+}
+
+.footer-icons img {
+  width: 50px;
+  border-radius: 50%;
+}
+
+.footer-icons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-bottom: 50px;
+  column-gap: 20px;
+}
