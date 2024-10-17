@@ -353,7 +353,6 @@ footer h2 {
     font-size: 25px;
   }
 
-
   /*---------------- SECTION 3 -----------*/
   .section-3 h2 {
     font-size: 30px;
@@ -380,10 +379,7 @@ footer h2 {
   }
 }
 
+/*---------------- LARGE SCREENS-----------*/
 
-
-
-
-
-
+@media only screen and (min-width: 900px) {
 }
