@@ -213,6 +213,10 @@ p {
   border: 2px solid grey;
 }
 
+.CV a {
+  text-decoration: none;
+}
+
 /*---------------- SECTION 3 -----------*/
 
 .section-3 {
@@ -254,6 +258,10 @@ b {
   color: rgb(0, 0, 0);
   font-size: 22px;
   margin-top: 10px;
+}
+
+.github-link a {
+  text-decoration: none;
 }
 
 .github-link button {
