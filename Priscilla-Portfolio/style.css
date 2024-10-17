@@ -198,6 +198,21 @@ p {
   );
 }
 
+.CV {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.CV button {
+  width: 170px;
+  height: 50px;
+  font-size: 21px;
+  background-color: rgba(10, 10, 10, 0.3);
+  color: whitesmoke;
+  border: 2px solid grey;
+}
+
 /*---------------- SECTION 3 -----------*/
 
 .section-3 {
