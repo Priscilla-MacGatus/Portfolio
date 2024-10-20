@@ -1,13 +1,21 @@
 # Portfolio
 
+<<<<<<< HEAD
 Module 2 iteration of your portfolio. We're adding a new case study for another project you've worked on. You can choose anything.
 
 _Keep your changes simple!_
 
 We are going to use the same Git workflow as Module 1, which you can read by checking out the `Module-HTML-CSS` branch or by going to the [tree view on Github](https://github.com/CodeYourFuture/Portfolio/tree/Module-HTML-CSS).
+=======
+This is a Website of My Portfolio
+It consist of a header section with a navigation bar to navigate the page,a hero section with name and contact details.
+It has subsections which emphasizes on the necessary soft skills and technical skills.
+A project section which consist of projects with the technologies and description of each project and a form
+>>>>>>> Module-HTML-CSS
 
-## Learning Objectives
+Below is a link to the POrtfolio
 
+<<<<<<< HEAD
 - [ ] Branch from a branch in Git
 - [ ] Merge a branch into another branch in Git
 - [ ] Create a second personal case study for a project
@@ -58,3 +66,6 @@ Whoa! Did your README disappear? That's because you overwrote it. But you can ac
 - [GitHub Desktop Merge](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/keeping-your-local-repository-in-sync-with-github/syncing-your-branch#merging-another-branch-into-your-project-branch)
 - [GitKraken Merge](https://www.youtube.com/watch?v=mS8oUqqc2G8)
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens/)
+=======
+https://portfolio-by-pris.netlify.app/
+>>>>>>> Module-HTML-CSS
